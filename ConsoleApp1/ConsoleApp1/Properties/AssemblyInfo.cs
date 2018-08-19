@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("Star-GroupBy-Join")]
+[assembly: AssemblyTitle("ConsoleApp1")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("Star-GroupBy-Join")]
+[assembly: AssemblyProduct("ConsoleApp1")]
 [assembly: AssemblyCopyright("Copyright ©  2018")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("0ab16c9f-7f4a-412b-bf08-8b47e38d7f63")]
+[assembly: Guid("4c14da42-fced-4690-8968-76bfde88bd03")]
 
 // Version information for an assembly consists of the following four values:
 //
